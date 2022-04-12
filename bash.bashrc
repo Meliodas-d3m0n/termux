@@ -9,7 +9,7 @@ figlet -f slant "YOURNAME" |lolcat
 
 
              echo "UM SOLDADO DA TIROS...
-                   UM HACKER DA ENTER" |lolcat
+         UM HACKER DA ENTER" |lolcat
 echo "< ━━━━━━━━━━━ [★] ANONYMOUS [★] ━━━━━━━━━━━━ >" |lolcat
 python /data/data/com.termux/files/usr/etc/welcome.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
